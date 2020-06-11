@@ -10,4 +10,7 @@ public class TestController {
 		
 	}
 
+	public void method3() {
+		
+	}
 }
